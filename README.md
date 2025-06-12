@@ -1,12 +1,8 @@
 # JOAQUIN BERBOTTO
 
-## Descripción
 
-Breve descripción del proyecto.
 
----
-
-## Capturas de Pantalla
+## Capturas de Pantalla Proyecto
 
 ### 1. Login
 ![Login](![Captura de pantalla 2025-06-12 102733](https://github.com/user-attachments/assets/5a1cc47e-f979-4eb4-9d89-9ded504513c6)
