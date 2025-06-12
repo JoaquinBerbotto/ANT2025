@@ -1,4 +1,4 @@
-![Captura de pantalla 2025-06-12 102733](https://github.com/user-attachments/assets/998825f2-2654-45c6-bfa8-c0597711bd04)# JOAQUIN BERBOTTO
+# JOAQUIN BERBOTTO
 
 ## Descripción
 
