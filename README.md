@@ -14,3 +14,11 @@
 ![Captura de pantalla 2025-06-12 102800](https://github.com/user-attachments/assets/9b7244fa-6a9d-4f5c-95b7-e2f0ba7f0b94)
 
 ---
+
+## Instalación
+
+Pasos para correr el proyecto:
+
+```bash
+npm install
+npm run dev
